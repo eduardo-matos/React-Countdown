@@ -1,0 +1,7 @@
+.timer-days,
+.timer-hours,
+.timer-minutes,
+.timer-seconds {
+    display: inline-block;
+    padding-right: 5px;
+}
